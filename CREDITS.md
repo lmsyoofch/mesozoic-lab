@@ -102,3 +102,16 @@ The illustrated appearance view uses credited Wikimedia Commons images. Artwork 
 - Allosaurus fragilis: Fred Wierum, CC BY-SA 4.0.
 
 Exact source records and licence links are listed in `app/reconstructions.ts` and on the website’s Credits page. Images are bundled locally from Wikimedia Commons without edits. Website creator: Foo Huey Chyun.
+
+## Interactive 3D life reconstructions
+
+Created and curated for the website by Foo Huey Chyun. These third-party surface models are embedded from Sketchfab, not bundled. Source licence listings do not grant additional reuse rights. Models are artistic interpretations; see on-site caveats.
+
+- **Triceratops dinosaur** — wojciechmiedziocha.  Source: https://sketchfab.com/3d-models/triceratops-dinosaur-87527079bad44917ab1b98a456b46c7e . Source licence listing: CC Attribution. http://creativecommons.org/licenses/by/4.0/
+- **Game Ready Tyrannosaurus Rex** — epilogueronin. Rigging credited to Niceul by the model creator. Source: https://sketchfab.com/3d-models/game-ready-tyrannosaurus-rex-baa886724cb642ac999315572897de9f . Source licence listing: No download licence stated. 
+- **Stegosaurus** — DailyArt.  Source: https://sketchfab.com/3d-models/stegosaurus-1924052361fb4bd49b714d296a34d2ab . Source licence listing: CC Attribution-NonCommercial. http://creativecommons.org/licenses/by-nc/4.0/
+- **Diplodocus** — pxltiger.  Source: https://sketchfab.com/3d-models/diplodocus-605cc1e312984d24a096ba82f5c40257 . Source licence listing: No download licence stated. 
+- **Velociraptor Mongoliensis** — Kyan0s.  Source: https://sketchfab.com/3d-models/velociraptor-mongoliensis-6b70a5f8bcf942b68857d3dc6be731b5 . Source licence listing: No download licence stated. 
+- **Spinosaurus aegyptiacus - Rigged** — Iofry.  Source: https://sketchfab.com/3d-models/spinosaurus-aegyptiacus-rigged-beb17e0ef36646468f2060390788d535 . Source licence listing: Standard. https://sketchfab.com/licenses
+- **Dinosaur Parasaurolophus** — Phil3D.  Source: https://sketchfab.com/3d-models/dinosaur-parasaurolophus-70cc19a93ea544a59aa44b54d2d3ba9a . Source licence listing: Standard. https://sketchfab.com/licenses
+- **Allosaurus fragilis reconstruction** — Natural History Museum Vienna. Model by Nicko Preschern, Leon Nolte and Emily Schiestek. Source: https://sketchfab.com/3d-models/allosaurus-fragilis-reconstruction-42c85d54a8374d249e220c18d45e5be8 . Source licence listing: No download licence stated. 

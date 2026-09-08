@@ -1,0 +1,90 @@
+[
+  {
+    "id": "triceratops",
+    "modelId": "87527079bad44917ab1b98a456b46c7e",
+    "title": "Triceratops dinosaur",
+    "creator": "wojciechmiedziocha",
+    "url": "https://sketchfab.com/3d-models/triceratops-dinosaur-87527079bad44917ab1b98a456b46c7e",
+    "licence": "CC Attribution",
+    "licenceUrl": "http://creativecommons.org/licenses/by/4.0/",
+    "note": "Horn and frill shape are guided by fossils; skin colour and ornamental texture are artistic choices.",
+    "additionalCredit": ""
+  },
+  {
+    "id": "tyrannosaurus",
+    "modelId": "baa886724cb642ac999315572897de9f",
+    "title": "Game Ready Tyrannosaurus Rex",
+    "creator": "epilogueronin",
+    "url": "https://sketchfab.com/3d-models/game-ready-tyrannosaurus-rex-baa886724cb642ac999315572897de9f",
+    "licence": "No download licence stated",
+    "licenceUrl": "",
+    "note": "A game-ready artistic reconstruction. Colour, exposed teeth and soft-tissue contours should not be treated as settled anatomy.",
+    "additionalCredit": "Rigging credited to Niceul by the model creator."
+  },
+  {
+    "id": "stegosaurus",
+    "modelId": "1924052361fb4bd49b714d296a34d2ab",
+    "title": "Stegosaurus",
+    "creator": "DailyArt",
+    "url": "https://sketchfab.com/3d-models/stegosaurus-1924052361fb4bd49b714d296a34d2ab",
+    "licence": "CC Attribution-NonCommercial",
+    "licenceUrl": "http://creativecommons.org/licenses/by-nc/4.0/",
+    "note": "Plate colour and surface ornament are artistic choices. Use the fossil specimen to compare proportions.",
+    "additionalCredit": ""
+  },
+  {
+    "id": "diplodocus",
+    "modelId": "605cc1e312984d24a096ba82f5c40257",
+    "title": "Diplodocus",
+    "creator": "pxltiger",
+    "url": "https://sketchfab.com/3d-models/diplodocus-605cc1e312984d24a096ba82f5c40257",
+    "licence": "No download licence stated",
+    "licenceUrl": "",
+    "note": "The long neck and tail illustrate the sauropod body plan; posture, colour and the extent of skin spines remain interpretive.",
+    "additionalCredit": ""
+  },
+  {
+    "id": "velociraptor",
+    "modelId": "6b70a5f8bcf942b68857d3dc6be731b5",
+    "title": "Velociraptor Mongoliensis",
+    "creator": "Kyan0s",
+    "url": "https://sketchfab.com/3d-models/velociraptor-mongoliensis-6b70a5f8bcf942b68857d3dc6be731b5",
+    "licence": "No download licence stated",
+    "licenceUrl": "",
+    "note": "Feathers are supported by fossil evidence in this lineage. The precise plumage pattern and colours are reconstructed.",
+    "additionalCredit": ""
+  },
+  {
+    "id": "spinosaurus",
+    "modelId": "beb17e0ef36646468f2060390788d535",
+    "title": "Spinosaurus aegyptiacus - Rigged",
+    "creator": "Iofry",
+    "url": "https://sketchfab.com/3d-models/spinosaurus-aegyptiacus-rigged-beb17e0ef36646468f2060390788d535",
+    "licence": "Standard",
+    "licenceUrl": "https://sketchfab.com/licenses",
+    "note": "An artistic reconstruction with a deep tail. Swimming ability, posture and body proportions remain debated; this model is not a scientific consensus reconstruction.",
+    "additionalCredit": ""
+  },
+  {
+    "id": "parasaurolophus",
+    "modelId": "70cc19a93ea544a59aa44b54d2d3ba9a",
+    "title": "Dinosaur Parasaurolophus",
+    "creator": "Phil3D",
+    "url": "https://sketchfab.com/3d-models/dinosaur-parasaurolophus-70cc19a93ea544a59aa44b54d2d3ba9a",
+    "licence": "Standard",
+    "licenceUrl": "https://sketchfab.com/licenses",
+    "note": "The crest is fossil-based; colours, soft tissue and the displayed pose are artistic interpretations.",
+    "additionalCredit": ""
+  },
+  {
+    "id": "allosaurus",
+    "modelId": "42c85d54a8374d249e220c18d45e5be8",
+    "title": "Allosaurus fragilis reconstruction",
+    "creator": "Natural History Museum Vienna",
+    "url": "https://sketchfab.com/3d-models/allosaurus-fragilis-reconstruction-42c85d54a8374d249e220c18d45e5be8",
+    "licence": "No download licence stated",
+    "licenceUrl": "",
+    "note": "Published by the Natural History Museum Vienna, based on its skeleton. Skin appearance was inspired by the museum\u2019s moving reconstruction.",
+    "additionalCredit": "Model by Nicko Preschern, Leon Nolte and Emily Schiestek."
+  }
+]

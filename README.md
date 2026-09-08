@@ -66,3 +66,9 @@ Most 3D models require Sketchfab access, an internet connection and WebGL. A suc
 Lesson progress is session-only. Refreshing starts a new session.
 
 Read CREDITS.md and preserve the on-site credits. Some models have non-commercial licences. Website creator credit does not imply ownership of third-party models or scientific research.
+
+## Interactive 3D life reconstruction update
+
+Life reconstruction now opens a textured, rotatable 3D surface model for each of the eight taxa. Switch to Illustration for the locally included artwork. Loading failures offer retry, the original hosted viewer and an illustration fallback. The white theme and 360° Explorer default are retained. These are artistic surface reconstructions, not detachable organ models.
+
+Models are hosted by their creators on Sketchfab and need internet access and WebGL; model files are not bundled. Source metadata and specific credits are in app/life-models.json and /credits. Hosted viewing does not grant download or redistribution rights.

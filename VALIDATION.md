@@ -17,3 +17,7 @@ Eight image records have named artist credits, source pages and licence links. T
 ## White theme update
 
 White surfaces and dark text applied across the main views, menus, dialogs and reconstruction captions. Core text, green accent and all eight system label colours exceed 4.5:1 contrast against white. Sketchfab uses its light interface with transparent background requested; provider model textures and environments are not recoloured. No browser visual QA performed.
+
+## Interactive 3D life reconstructions
+
+Eight source model metadata records were retrieved from the public Sketchfab API; preview images were inspected for fleshed-out appearance. Thumbnails and model files are not bundled. Life view uses the existing viewerready-event integration, with a 60-second failure timeout, retry and explicit illustration fallback. Browser interaction and live WebGL rendering have not been tested. Source availability can change.
