@@ -4,7 +4,7 @@ Created by **Foo Huey Chyun**.
 
 ## New in this version
 
-The website opens in Body systems, inspired by the interaction approach of Human Atlas. Eight systems contain 24 selectable structures with function, fossil evidence, inference limits and scientific reading. Search finds structures across systems. Switch between functional diagrams and the existing 360° specimen viewer, with all eight dinosaur profiles available.
+The website opens in the 360° Explorer, with Body systems available as a tab, inspired by the interaction approach of Human Atlas. Eight systems contain 24 selectable structures with function, fossil evidence, inference limits and scientific reading. Search finds structures across systems. Switch between functional diagrams and the existing 360° specimen viewer, with all eight dinosaur profiles available.
 
 These are **functional schematics**, not anatomically positioned organ layers. No claim is made that the fossil models contain detachable organs. The species viewer, comparison, field school, creator credits and lighter Spinosaurus embed remain available. A research-grade layered 3D atlas would require separately sourced and reviewed segmented anatomical models.
 
