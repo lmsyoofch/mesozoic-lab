@@ -76,3 +76,16 @@ Models are hosted by their creators on Sketchfab and need internet access and We
 ## Tyrannosaurus anatomy explorer
 
 Explore anatomy opens a local interactive schematic with six selectable systems and 18 structures. Rotate and zoom, use side/front/top camera presets, isolate a system or adjust the body outline. Every structure has function, evidence, uncertainty and source information. These are original simplified teaching meshes by Foo Huey Chyun, not specimen scans or validated organ reconstructions. All geometry is generated locally with Three.js and needs WebGL but no external model service. Existing hosted life and specimen views are retained. The default remains the 360° Explorer. Keyboard users can select all structures through the adjacent buttons.
+
+## Selected skeletal reference: permission record
+
+Title: Tyrannosaurus Rex skeleton
+Creator: Rigsters
+Source: https://sketchfab.com/3d-models/tyrannosaurus-rex-skeleton-77e21c4e5d65468bbe11780ae0557b95
+Licence: Creative Commons Attribution 4.0 International (CC BY 4.0)
+Licence URL: https://creativecommons.org/licenses/by/4.0/
+Verified: 8 September 2026 through the creator’s public Sketchfab model metadata.
+Provenance: photogrammetric scan of a skeleton replica at Knuthenborg Safaripark, Denmark.
+Permission basis: published open licence. No separate personal approval or endorsement is claimed.
+Changes: none. Hosted viewing only. Mesh files are not bundled. The scan has not been segmented into selectable bones or incorporated into the original schematic anatomy.
+Preserve creator credit, the source and licence links and any modification notices. Do not suggest endorsement or add restrictions to the licensed material. The licence permits sharing and adaptation, including commercial use, subject to its terms. Other website materials retain their own licences.
