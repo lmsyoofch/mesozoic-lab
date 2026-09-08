@@ -9,3 +9,11 @@
 - Functional diagrams are not positioned organ reconstructions. No detachable 3D soft-tissue layers are claimed.
 
 Deployment instructions are in README.md. This download does not update a previously published website.
+
+## Life reconstruction update
+
+Eight image records have named artist credits, source pages and licence links. The new view has loading and error states with source links. Public source records were checked. All eight original image assets were downloaded successfully and bundled in public/reconstructions. Their visual content was inspected separately from the website. No browser rendering verification was performed.
+
+## White theme update
+
+White surfaces and dark text applied across the main views, menus, dialogs and reconstruction captions. Core text, green accent and all eight system label colours exceed 4.5:1 contrast against white. Sketchfab uses its light interface with transparent background requested; provider model textures and environments are not recoloured. No browser visual QA performed.

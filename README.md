@@ -2,7 +2,17 @@
 
 Created by **Foo Huey Chyun**.
 
-## New in this version
+## White background theme
+
+The website now uses a white background with dark text, green accents and light panels across the explorer, body systems, comparison, field school and credits. The default remains the 360° Explorer. Model textures and reconstruction artwork are unchanged.
+
+## Life reconstruction view
+
+Each dinosaur now has a Life reconstruction tab beside the 360° specimen. Eight artist illustrations show possible fleshed-out appearances, with credit, source and licence links. These are reconstructions, not photographs of living dinosaurs. The website still opens in the 360° Explorer.
+
+All eight illustrations are bundled in `public/reconstructions`, so the deployed site serves them locally. If an image cannot load, the view offers its source page. All image records are in `app/reconstructions.ts`. No additional edits are applied to the source images.
+
+## Body systems
 
 The website opens in the 360° Explorer, with Body systems available as a tab, inspired by the interaction approach of Human Atlas. Eight systems contain 24 selectable structures with function, fossil evidence, inference limits and scientific reading. Search finds structures across systems. Switch between functional diagrams and the existing 360° specimen viewer, with all eight dinosaur profiles available.
 
@@ -17,7 +27,7 @@ A dinosaur learning website with eight taxa, 360° specimen views, comparisons, 
 ## Publish with GitHub and Vercel
 
 1. Extract this ZIP. Open the extracted `mesozoic-lab-vercel` folder.
-2. Create a repository in GitHub. Upload the contents of this folder, including `app`, `public`, `package.json`, `package-lock.json`, `next.config.ts` and `vercel.json`. Upload the extracted files, not the ZIP. Keep `package.json` at the repository root. Do not upload `node_modules` or `.next`.
+2. Create a repository in GitHub. Upload the contents of this folder, including `app`, `public`, `package.json`, `package-lock.json`, `next.config.ts` and `vercel.json`. Upload the extracted files, not the ZIP. Keep `package.json` at the repository root. Do not upload `node_modules`, `.next` or `PREBUILT-SITE.zip`.
 3. In Vercel, choose Add New → Project. Import the GitHub repository.
 4. Use the Next.js framework preset. Build command: `npm run build`. Install command: `npm ci`. Keep the root directory at the repository root and leave the output directory at its framework default. Use Node.js 22.x or newer.
 5. Choose Deploy. No environment variables, API keys or database are required.

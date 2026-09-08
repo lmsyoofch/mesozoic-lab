@@ -20,7 +20,7 @@ export default function SketchfabViewer({modelId,title,onReady,onFailure}:{model
   timer=setTimeout(fail,60000);
   loadSDK().then(()=>{if(!active||!frame.current||!window.Sketchfab)return;
    const client=new window.Sketchfab(frame.current);
-   client.init(modelId,{autostart:1,preload:1,transparent:0,ui_theme:'dark',ui_infos:0,ui_controls:1,ui_hint:1,dnt:1,success:(api:ViewerAPI)=>{if(!active)return;api.addEventListener('viewerready',()=>{if(active){clearTimeout(timer);callbacks.current.onReady()}});api.start()},error:fail});
+   client.init(modelId,{autostart:1,preload:1,transparent:1,ui_theme:'light',ui_infos:0,ui_controls:1,ui_hint:1,dnt:1,success:(api:ViewerAPI)=>{if(!active)return;api.addEventListener('viewerready',()=>{if(active){clearTimeout(timer);callbacks.current.onReady()}});api.start()},error:fail});
   }).catch(fail);
   return()=>{active=false;clearTimeout(timer)};
  },[modelId]);

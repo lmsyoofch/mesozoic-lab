@@ -86,3 +86,19 @@ React and Next.js (MIT), Google model-viewer (Apache-2.0), Radix UI (MIT), shadc
 Functional schematics and learning interface: Foo Huey Chyun. Interaction inspiration: [Human Atlas](https://human-atlas-seven.vercel.app/). No Human Atlas source code or anatomical assets are included. The diagrams explain relationships and do not reconstruct organ positions or shapes.
 
 Scientific references for each system are embedded in `app/systems-data.ts` and listed on the website’s Credits page. These include Falkingham et al. on locomotion, Wedel and Butler et al. on skeletal pneumaticity, Watanabe et al. and Balanoff et al. on palaeoneurology, Koshiba-Takeuchi et al. on reptilian hearts, Turner et al. on Velociraptor feathers and Schweitzer et al. on T. rex reproductive tissue.
+
+
+## Life reconstruction illustrations
+
+The illustrated appearance view uses credited Wikimedia Commons images. Artwork remains the work of its original creators and is displayed without further edits. These are interpretations, not photographs of living non-avian dinosaurs.
+
+- Triceratops horridus: Connor Ashbridge, CC BY-SA 4.0.
+- Tyrannosaurus rex: Nobu Tamura; source crop by Monsieur X, CC BY-SA 4.0.
+- Stegosaurus ungulatus: Slate Weasel, public domain.
+- Diplodocus carnegii: Fred Wierum, CC BY-SA 4.0.
+- Velociraptor mongoliensis: Fred Wierum, CC BY-SA 4.0.
+- Spinosaurus aegyptiacus: Connor Ashbridge, CC BY 4.0.
+- Parasaurolophus walkeri: Connor Ashbridge, CC BY-SA 4.0.
+- Allosaurus fragilis: Fred Wierum, CC BY-SA 4.0.
+
+Exact source records and licence links are listed in `app/reconstructions.ts` and on the website’s Credits page. Images are bundled locally from Wikimedia Commons without edits. Website creator: Foo Huey Chyun.
