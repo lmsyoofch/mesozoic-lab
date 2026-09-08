@@ -115,3 +115,15 @@ Created and curated for the website by Foo Huey Chyun. These third-party surface
 - **Spinosaurus aegyptiacus - Rigged** — Iofry.  Source: https://sketchfab.com/3d-models/spinosaurus-aegyptiacus-rigged-beb17e0ef36646468f2060390788d535 . Source licence listing: Standard. https://sketchfab.com/licenses
 - **Dinosaur Parasaurolophus** — Phil3D.  Source: https://sketchfab.com/3d-models/dinosaur-parasaurolophus-70cc19a93ea544a59aa44b54d2d3ba9a . Source licence listing: Standard. https://sketchfab.com/licenses
 - **Allosaurus fragilis reconstruction** — Natural History Museum Vienna. Model by Nicko Preschern, Leon Nolte and Emily Schiestek. Source: https://sketchfab.com/3d-models/allosaurus-fragilis-reconstruction-42c85d54a8374d249e220c18d45e5be8 . Source licence listing: No download licence stated. 
+
+## Tyrannosaurus anatomy explorer
+
+Explore anatomy opens a local interactive schematic with six selectable systems and 18 structures. Rotate and zoom, use side/front/top camera presets, isolate a system or adjust the body outline. Every structure has function, evidence, uncertainty and source information. These are original simplified teaching meshes by Foo Huey Chyun, not specimen scans or validated organ reconstructions. All geometry is generated locally with Three.js and needs WebGL but no external model service. Existing hosted life and specimen views are retained. The default remains the 360° Explorer. Keyboard users can select all structures through the adjacent buttons.
+
+Anatomy reading:
+- Natural History Museum: https://www.nhm.ac.uk/discover/dino-directory/tyrannosaurus.html
+- Hutchinson et al. (2011): https://pmc.ncbi.nlm.nih.gov/articles/PMC3192160/
+- Brocklehurst et al. (2020): https://pmc.ncbi.nlm.nih.gov/articles/PMC7017431/
+- Witmer and Ridgely (2009): https://doi.org/10.1002/ar.20983
+- Bell et al. (2017): https://pmc.ncbi.nlm.nih.gov/articles/PMC5493735/
+- Three.js (MIT licence): https://github.com/mrdoob/three.js/blob/dev/LICENSE

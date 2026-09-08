@@ -21,3 +21,9 @@ White surfaces and dark text applied across the main views, menus, dialogs and r
 ## Interactive 3D life reconstructions
 
 Eight source model metadata records were retrieved from the public Sketchfab API; preview images were inspected for fleshed-out appearance. Thumbnails and model files are not bundled. Life view uses the existing viewerready-event integration, with a 60-second failure timeout, retry and explicit illustration fallback. Browser interaction and live WebGL rendering have not been tested. Source availability can change.
+
+## Tyrannosaurus anatomy explorer
+
+Explore anatomy opens a local interactive schematic with six selectable systems and 18 structures. Rotate and zoom, use side/front/top camera presets, isolate a system or adjust the body outline. Every structure has function, evidence, uncertainty and source information. These are original simplified teaching meshes by Foo Huey Chyun, not specimen scans or validated organ reconstructions. All geometry is generated locally with Three.js and needs WebGL but no external model service. Existing hosted life and specimen views are retained. The default remains the 360° Explorer. Keyboard users can select all structures through the adjacent buttons.
+
+Production compilation, TypeScript checking and static generation passed for the anatomy update. No browser interaction or visual verification was performed. The educational geometry has not undergone palaeontologist review and must not be used for anatomical measurements.
